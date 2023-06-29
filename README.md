@@ -1,7 +1,7 @@
 <a href="https://www.juncture-digital.org"><img src="https://juncture-digital.github.io/juncture/static/images/ve-button.png"></a>
 
 <param ve-config 
-       title="Yerba Mate: From Sacred Drink to Caffeinated Star"
+       title="I love oceans"
        author="Anna Hogarth"
        banner="https://upload.wikimedia.org/wikipedia/commons/b/b6/Santorin_%28GR%29%2C_Exomytis%2C_Vlychada_Beach_--_2017_--_2999_%28bw%29.jpg"
        layout="vertical">
