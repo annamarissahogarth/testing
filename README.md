@@ -3,6 +3,7 @@
 <param ve-config 
        title="Yerba Mate: From Sacred Drink to Caffeinated Star"
        author="Anna Hogarth"
+       banner="https://upload.wikimedia.org/wikipedia/commons/b/b6/Santorin_%28GR%29%2C_Exomytis%2C_Vlychada_Beach_--_2017_--_2999_%28bw%29.jpg"
        layout="vertical">
 
 ### Introduction
