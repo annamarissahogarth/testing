@@ -16,7 +16,7 @@
 <param ve-entity eid="Q84263196" title=“COVID-19 pandemic”>
 
 ### next paragraph
-[__Bliss__]([https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:315555-2](https://liveablissfullife.com/what-is-true-bliss/)) is what I feel at the beach. This is the next paragraph all about why I like water. It is very cold, like an iceberg. 
+[__Bliss__](https://liveablissfullife.com/what-is-true-bliss/) is what I feel at the beach. This is the next paragraph all about why I like water. It is very cold, like an iceberg. 
 <param ve-image label="isn't it beautiful?" description="Photograph" license="public domain" url="https://upload.wikimedia.org/wikipedia/commons/b/b9/Mystic_Beach%2C_Vancouver_Island%2C_Canada_10.jpg" region="2283,976,901,734">
 <param ve-entity eid="Q47568" title="iceberg">
 <param ve-entity eid="Q34679" title=“SAND”>
