@@ -32,4 +32,4 @@ text text text
 
 ### next paragraph
 and here's a primary source from archive.org
-<param ve-iframe src="https://archive.org/details/journal-japanese-botany-69-032-033/mode/2up">
+<param ve-iframe src="https://archive.org/details/journal-japanese-botany-69-032-033/page/n2/mode/2up?view=theater">
