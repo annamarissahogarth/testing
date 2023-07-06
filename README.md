@@ -28,4 +28,4 @@ Text text text, this is something cool written here.
 
 ### next paragraph
 text text text
-<param ve-image url=""
+<param ve-image url="viburnum.jpeg">
