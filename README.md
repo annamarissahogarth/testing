@@ -28,4 +28,4 @@ Text text text, this is something cool written here.
 
 ### next paragraph
 text text text
-<param ve-plant-specimen jpid="10.5555/al.ap.specimen.us01928030">
+<param ve-image url=""
