@@ -50,6 +50,6 @@ initial-zoom="1"
 height="750">
 
 ### map
-here's how to make a map, and you should also center it using the wikidata code or google maps. 
+here's how to make a map, and you should also center it using the wikidata code or google maps. Smaller numbers zoom out
 
 <param ve-map basemap="Esri_WorldPhysical" center="Q212" zoom="3">
