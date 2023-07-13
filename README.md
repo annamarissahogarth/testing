@@ -40,7 +40,7 @@ and here's putting two images side by side, first time you write sync
 <param ve-compare label="seashell woman" description="Photograph" license="public domain" url="https://upload.wikimedia.org/wikipedia/commons/f/f7/Seashell%2C_from_the_Novelties_series_%28N228%2C_Type_3%29_issued_by_Kinney_Bros._MET_DPB874743.jpg">
 
 ### timeline
-you can only use links for photos, and you can also change the color using hex codes. your sheet: file, share, publish to the web. Here is a link for the draft/template https://docs.google.com/spreadsheets/d/e/2PACX-1vSgP37Q7M-uFcrIk9MeHMH0c7Y3dhHS75obCJvymfzEvAEN5-Uto6HTcLS3DBl9A7qhtcjO3lK8ULq7/pubhtml
+you can only use links for photos, and you can also change the color using hex codes. your sheet: file, share, publish to the web. This is the website to use: https://timeline.knightlab.com/#make Here is a link for the draft/template https://docs.google.com/spreadsheets/d/e/2PACX-1vSgP37Q7M-uFcrIk9MeHMH0c7Y3dhHS75obCJvymfzEvAEN5-Uto6HTcLS3DBl9A7qhtcjO3lK8ULq7/pubhtml
 
 <param ve-knightlab-timeline
 source="1dtP2MJjA7Bla-Ybeds7Cq8pPdWhitsoawFQhDGoaSWA"
@@ -48,3 +48,8 @@ timenav-position="bottom"
 hash-bookmark="false"
 initial-zoom="1"
 height="750">
+
+### map
+here's how to make a map, and you should also center it 
+
+<param ve-map basemap="Esri_WorldPhysical">
