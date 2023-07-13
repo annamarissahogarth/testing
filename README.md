@@ -52,4 +52,4 @@ height="750">
 ### map
 here's how to make a map, and you should also center it 
 
-<param ve-map basemap="Esri_WorldPhysical">
+<param ve-map basemap="Esri_WorldPhysical" center="Q212" zoom="6">
