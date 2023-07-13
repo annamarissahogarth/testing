@@ -23,13 +23,18 @@
 <param ve-entity eid="Q84263196" title=“COVID-19 pandemic”>
 
 ### next paragraph
-Text text text, this is something cool written here. 
+Text text text, this is something cool written here. inserting a video
 <param ve-video vid="kIfU4EO8oy0">
 
 ### next paragraph
-text text text
+text text text. i forget what the point of this one was
 <param ve-image url="viburnum.jpeg" region="121,3,609,510">
 
 ### next paragraph
 and here's a primary source from archive.org
 <param ve-iframe src="https://archive.org/details/journal-japanese-botany-69-032-033/page/n2/mode/2up?view=theater">
+
+### next paragraph
+and here's a primary source from archive.org
+<param ve-compare sync label="look at this big masterpiece" description="Photograph" license="public domain" url="https://upload.wikimedia.org/wikipedia/commons/a/af/Playa_de_Levante%2C_Benidorm%2C_Espa%C3%B1a%2C_2014-07-02%2C_DD_03.JPG">
+<param ve-compare label="seashell woman" description="Photograph" license="public domain" url="https://upload.wikimedia.org/wikipedia/commons/f/f7/Seashell%2C_from_the_Novelties_series_%28N228%2C_Type_3%29_issued_by_Kinney_Bros._MET_DPB874743.jpg">
