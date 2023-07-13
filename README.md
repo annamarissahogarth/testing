@@ -35,6 +35,6 @@ and here's a primary source from archive.org
 <param ve-iframe src="https://archive.org/details/journal-japanese-botany-69-032-033/page/n2/mode/2up?view=theater">
 
 ### next paragraph
-and here's a primary source from archive.org
-<param ve-compare sync label="look at this big masterpiece" description="Photograph" license="public domain" url="https://upload.wikimedia.org/wikipedia/commons/a/af/Playa_de_Levante%2C_Benidorm%2C_Espa%C3%B1a%2C_2014-07-02%2C_DD_03.JPG">
+and here's putting two images side by side, first time you write sync
+<param ve-compare curtain label="look at this big masterpiece" description="Photograph" license="public domain" url="https://upload.wikimedia.org/wikipedia/commons/a/af/Playa_de_Levante%2C_Benidorm%2C_Espa%C3%B1a%2C_2014-07-02%2C_DD_03.JPG">
 <param ve-compare label="seashell woman" description="Photograph" license="public domain" url="https://upload.wikimedia.org/wikipedia/commons/f/f7/Seashell%2C_from_the_Novelties_series_%28N228%2C_Type_3%29_issued_by_Kinney_Bros._MET_DPB874743.jpg">
