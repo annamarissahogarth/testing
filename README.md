@@ -57,7 +57,7 @@ here's how to make a map, and you should also center it using the wikidata code 
 ### map 2
 If you do just param ve map it will be a map of the whole world. go to this website: https://geojson.io/#map=2/0/20. the raw data from uploading the raw code is what you need for the layer. I want it to zoom in over the <span data-mouseover-map-flyto="50.449486986444576, 30.525408954596692,14">independence monument</span> monument, so i do this.
 
-<param ve-map title="here's a map!" center="50.449251, 30.525355" zoom="12">
+<param ve-map title="here's a map!" center="59.449251, 30.525355" zoom="12">
 <param ve-map-layer geojson url="https://raw.githubusercontent.com/annamarissahogarth/testing/main/randomtestmap.json">
 
 ### this one is where you can zoom in on a photo and annotate it
