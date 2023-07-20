@@ -50,10 +50,15 @@ initial-zoom="1"
 height="750">
 
 ### map
-here's how to make a map, and you should also center it using the wikidata code or google maps. Smaller numbers zoom out
+here's how to make a map, and you should also center it using the wikidata code or google maps. Smaller numbers zoom out. If you do just param ve map it will be a map of the whole world
 
 <param ve-map basemap="Esri_WorldPhysical" center="Q212" zoom="3">
 
-### trying out a new thing
-do you need text?
+### map 2
+If you do just param ve map it will be a map of the whole world
+
+<param ve-map title="here's a map!">
+
+### this one is where you can zoom in on a photo and annotate it
+do you need text? Yes. Make sure that you're logged into juncture-digital.org and use shift command
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/4/47/Yerba_mate_palo_santo.jpg">
