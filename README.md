@@ -55,9 +55,10 @@ here's how to make a map, and you should also center it using the wikidata code 
 <param ve-map basemap="Esri_WorldPhysical" center="Q212" zoom="3">
 
 ### map 2
-If you do just param ve map it will be a map of the whole world. go to this website: https://geojson.io/#map=2/0/20
+If you do just param ve map it will be a map of the whole world. go to this website: https://geojson.io/#map=2/0/20. the raw data from uploading the raw code is what you need for the layer.
 
 <param ve-map title="here's a map!" center="50.449251, 30.525355" zoom="12">
+<param ve-map-layer geojson url="https://raw.githubusercontent.com/annamarissahogarth/testing/main/randomtestmap.json">
 
 ### this one is where you can zoom in on a photo and annotate it
 do you need text? Yes. Make sure that you're logged into juncture-digital.org and use shift command
