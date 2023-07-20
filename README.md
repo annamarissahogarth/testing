@@ -54,5 +54,6 @@ here's how to make a map, and you should also center it using the wikidata code 
 
 <param ve-map basemap="Esri_WorldPhysical" center="Q212" zoom="3">
 
-### timeline
+### trying out a new thing
+do you need text?
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/4/47/Yerba_mate_palo_santo.jpg">
