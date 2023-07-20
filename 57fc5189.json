@@ -1,0 +1,22 @@
+[
+  {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "efwefafwefwe",
+        "purpose": "tagging"
+      }
+    ],
+    "target": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/4/47/Yerba_mate_palo_santo.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:757.1704711914062,1595.390380859375,795.8292846679688,835.112548828125"
+      }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "#67034de1-6955-4c91-b193-74b362a6e69b"
+  }
+]
