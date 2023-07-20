@@ -55,7 +55,7 @@ here's how to make a map, and you should also center it using the wikidata code 
 <param ve-map basemap="Esri_WorldPhysical" center="Q212" zoom="3">
 
 ### map 2
-If you do just param ve map it will be a map of the whole world
+If you do just param ve map it will be a map of the whole world. go to this website: https://geojson.io/#map=2/0/20
 
 <param ve-map title="here's a map!" center="50.449251, 30.525355" zoom="12">
 
